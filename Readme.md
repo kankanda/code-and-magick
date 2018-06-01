@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Оксана Шатилова](https://up.htmlacademy.ru/javascript/14/user/627931).
-* Наставник: `Неизвестно`.
+* Наставник: `Имя наставника`.
 
 ---
 
